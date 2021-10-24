@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    background-color:#14549C;
+}
+
+.container {
+    margin: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.item{
+    margin:2rem;
+}
